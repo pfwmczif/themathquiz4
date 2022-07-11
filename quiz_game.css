@@ -1,0 +1,51 @@
+.body_style
+{
+    background-color: rgb(58, 208, 158);
+}
+#number1{
+    width: 250px;
+    max-width: 250px;
+font: bold;
+font-style: oblique;
+font-size: 20px;
+}
+#number2{
+    width: 250px;
+    max-width: 250px;
+    font: bold;
+    font-style: oblique;
+    font-size: 20px;
+    }
+    .login_div1 , .login_div2
+	{
+		background: rgb(237, 143, 229);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+#output
+{
+    background: rgb(225, 255, 0);
+    border-radius: 10px;
+    border-top: 10px solid #ff0000;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+#check_button{
+    align-content: center;
+    align-self: center;
+    color: rgb(246, 255, 0);
+    background-color: blue;
+}
+#send_button{
+    align-content: center;
+    align-self: center;
+    color: rgb(246, 255, 0);
+    background-color: blue;
+}
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
